@@ -1,0 +1,13 @@
+﻿stena => nrel_main_ru_idtf:
+			  [стена] ;;
+			  
+stena => nrel_main_en_idtf:
+			  [wall] ;;
+			  
+emociya->ravnodushie;;
+
+stena->have_door: door;;
+door<-have_door: stena;;
+
+stena->have_wondow: window;;
+window<-have_window: stena;;

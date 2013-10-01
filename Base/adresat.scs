@@ -1,0 +1,9 @@
+﻿adresat => nrel_main_ru_idtf:
+			  [адресат] ;;
+			  
+adresat => nrel_main_en_idtf:
+			  [addressee] ;;
+			  
+adresat<-subyekt;;
+
+adresat<-konechnaya_tochka;;

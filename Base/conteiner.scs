@@ -1,0 +1,9 @@
+﻿konteiner => nrel_main_ru_idtf:
+			  [контейнер] ;;
+			  
+konteiner => nrel_main_en_idtf:
+			  [container] ;;
+			  
+konteiner<-prostranstvo;;
+
+konteiner<-sredstvo;;

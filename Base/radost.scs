@@ -1,0 +1,9 @@
+﻿radost => nrel_main_ru_idtf:
+			  [радость] ;;
+			  
+radost => nrel_main_en_idtf:
+			  [joy] ;;
+			  
+emociya->radost;;
+
+radost<-lyuboznatelnost;;

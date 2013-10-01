@@ -1,0 +1,7 @@
+﻿mesto => nrel_main_ru_idtf:
+			  [место] ;;
+			  
+mesto => nrel_main_en_idtf:
+			  [place] ;;
+			  
+mesto<-prostranstvo;;

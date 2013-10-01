@@ -1,0 +1,9 @@
+﻿istochink => nrel_main_ru_idtf:
+			  [источник] ;;
+			  
+istochink => nrel_main_en_idtf:
+			  [origin] ;;
+			  
+istochink<-mesto;;
+
+istochink<-rezultat;;

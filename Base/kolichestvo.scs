@@ -1,0 +1,7 @@
+﻿kolichestvo => nrel_main_ru_idtf:
+			  [количество] ;;
+			  
+kolichestvo => nrel_main_en_idtf:
+			  [amount] ;;
+			  
+kolichestvo<-velichina;;

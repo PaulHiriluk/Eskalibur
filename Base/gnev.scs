@@ -1,0 +1,7 @@
+﻿gnev => nrel_main_ru_idtf:
+			  [гнев] ;;
+			  
+gnev => nrel_main_en_idtf:
+			  [anger] ;;
+			  
+gnev<-emociya;;

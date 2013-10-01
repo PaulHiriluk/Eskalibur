@@ -1,0 +1,9 @@
+﻿posrednik => nrel_main_ru_idtf:
+			  [посредник] ;;
+			  
+posrednik => nrel_main_en_idtf:
+			  [intermediary] ;;
+			  
+posrednik<-sredstvo;;
+
+posrednik<-subyekt;;

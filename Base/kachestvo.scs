@@ -1,0 +1,9 @@
+﻿kachestvo => nrel_main_ru_idtf:
+			  [качество] ;;
+			  
+kachestvo => nrel_main_en_idtf:
+			  [quality] ;;
+			  
+kachestvo<-velichina;;
+
+kachestvo<-rezultat;;

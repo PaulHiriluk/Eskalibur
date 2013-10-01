@@ -1,0 +1,9 @@
+﻿srok => nrel_main_ru_idtf:
+			  [срок] ;;
+			  
+srok => nrel_main_en_idtf:
+			  [limitation] ;;
+			  
+srok<-kolichestvo;;
+
+srok<-vremya;;

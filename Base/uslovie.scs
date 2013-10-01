@@ -1,0 +1,9 @@
+﻿uslovie => nrel_main_ru_idtf:
+			  [условие] ;;
+			  
+uslovie => nrel_main_en_idtf:
+			  [condition] ;;
+			  
+uslovie<-cel;;
+
+uslovie<-otnoshenie;;

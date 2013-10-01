@@ -1,0 +1,7 @@
+﻿obida => nrel_main_ru_idtf:
+			  [обида] ;;
+			  
+obida => nrel_main_en_idtf:
+			  [hurt] ;;
+			  
+obida<-emociya;;

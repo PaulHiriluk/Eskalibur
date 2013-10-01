@@ -1,0 +1,9 @@
+﻿subyekt => nrel_main_ru_idtf:
+			  [субъект] ;;
+			  
+subyekt => nrel_main_en_idtf:
+			  [person] ;;
+			  
+subyect<-obyekt;;
+
+subyect<-cel;;

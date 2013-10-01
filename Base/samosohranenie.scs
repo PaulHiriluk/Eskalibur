@@ -1,0 +1,7 @@
+﻿samosohranenie => nrel_main_ru_idtf:
+			  [самосохранение] ;;
+			  
+samosohranenie => nrel_main_en_idtf:
+			  [self_preservation] ;;
+			  
+samosohranenie<-motiv;;

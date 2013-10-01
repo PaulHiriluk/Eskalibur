@@ -1,0 +1,7 @@
+﻿kontragent => nrel_main_ru_idtf:
+			  [контрагент] ;;
+			  
+kontragent => nrel_main_en_idtf:
+			  [contractor] ;;
+			  
+kontragent<-obyekt;;

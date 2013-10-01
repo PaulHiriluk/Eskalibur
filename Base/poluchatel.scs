@@ -1,0 +1,7 @@
+﻿poluchatel => nrel_main_ru_idtf:
+			  [получатель] ;;
+			  
+poluchatel => nrel_main_en_idtf:
+			  [addressee] ;;
+			  
+poluchatel<-adresat;;

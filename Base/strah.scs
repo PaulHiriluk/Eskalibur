@@ -1,0 +1,9 @@
+﻿strah => nrel_main_ru_idtf:
+			  [страх] ;;
+			  
+strah => nrel_main_en_idtf:
+			  [fear] ;;
+			  
+strah<-emociya;;
+
+strah<-samosohranenie;;

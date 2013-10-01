@@ -1,0 +1,9 @@
+﻿motiv => nrel_main_ru_idtf:
+			  [мотив] ;;
+			  
+motiv => nrel_main_en_idtf:
+			  [motive] ;;
+			  
+motiv<-subyekt;;
+
+motiv<-deistvie;;
